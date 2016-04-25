@@ -2,6 +2,7 @@
 set nocompatible
 set encoding=utf-8
 syntax on
+set t_Co=256
 colorscheme luna-term
 
 " General
