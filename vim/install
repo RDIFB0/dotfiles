@@ -1,0 +1,5 @@
+#!/bin/bash
+wget https://raw.githubusercontent.com/RDIFB0/dotfiles/master/vim/.vimrc -O ~/.vimrc
+mkdir -p ~/.vim/colors
+wget https://github.com/RDIFB0/dotfiles/blob/master/vim/.vim/colors/luna.vim -O ~/.vim/colors/luna.vim
+wget https://github.com/RDIFB0/dotfiles/blob/master/vim/.vim/colors/luna-term.vim -O ~/.vim/colors/luna-term.vim
